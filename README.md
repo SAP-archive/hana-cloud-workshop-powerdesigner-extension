@@ -19,7 +19,7 @@ This git repository contains
  - This function is only for PowerDesigner and do not work in the portal
 
 ## Documentation
-[Find the instructions here](./instructions/Readme.md) 
+[Find the instructions here](https://github.com/SAP-samples/hana-cloud-workshop-powerdesigner-extension/blob/main/Instructions/Readme.md) 
 
 ## How to obtain support
 
