@@ -18,6 +18,9 @@ This git repository contains
  - You have to manual add the delta to the table migrations
  - This function is only for PowerDesigner and do not work in the portal
 
+## Documentation
+[Find the instructions here](./instructions/Readme.md) 
+
 ## How to obtain support
 
 [Create an issue](https://github.com/SAP-samples/hana-cloud-workshop-powerdesigner-extension/issues) in this repository if you find a bug or have questions about the content.
