@@ -3,8 +3,13 @@
 # SAP PowerDesigner Extension to Generate HDB Artifacts
 
 ## Description
-This extension shows how to develop HDBTable and HDBMigrationTable scripts that are generated out of SAP PowerDesigner.
+The model extension <HDBTable.xem> shows how to develop HDBTable and HDBMigrationTable scripts that are generated out of SAP PowerDesigner.
 
+# SAP PowerDesigner Extension to use HANA Cloud with PowerDesigner
+## Description
+The DB Extension <HANACloud_new.xdb> is a new database support for HANA Cloud
+
+ 
 ## Requirements
 You need [SAP PowerDesigner](https://www.sap.com/products/powerdesigner-data-modeling-tools.html) (DataArchitect edition, EnterpriseArchitect edition, or trial version).
 
